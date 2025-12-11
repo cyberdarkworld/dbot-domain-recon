@@ -84,13 +84,20 @@ npm run prod
 * Set the interaction endpoint in your Discord application settings.
 * Once the Discord ping succeeds, your bot will be online.
 
-## Hosted Option
+## Lazy or don’t want to host yourself?
 
+We’ve got you covered! Invite our fully-hosted bot to your server for free:
 If you prefer not to host the bot yourself, you can invite the fully-hosted bot for free:
 
-[Invite dbot-domain-recon](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot+applications.commands)
+[Invite BOT to your server](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot+applications.commands)
 
 Want to join the domainer community? Here you go: [discord.gg/domainers](https://discord.gg/domainers)
+
+## RDAP Information
+
+dbot-domain-recon uses RDAP as the primary source for domain ownership and registrar details. RDAP (Registration Data Access Protocol) provides standardized, legally-compliant JSON data about domain registrations directly from registries or registrars. For domains where RDAP is not available, the bot falls back to WHOIS lookups.
+
+Official RDAP resources and servers can be found here: [https://rdap.org/](https://about.rdap.org/)
 
 ## References
 
