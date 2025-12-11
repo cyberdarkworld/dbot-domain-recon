@@ -4,7 +4,7 @@ Welcome to **dbot-domain-recon**, a Discord bot designed for domain investors an
 
 ## Overview
 
-**dbot-domain-recon** is open-source, modular, and stateless. It can be hosted on Cloudflare Workers or any stateless environment. The bot interacts via Discord slash commands and provides instant domain information for any TLD. The structure allows developers to add or customize commands easily.
+**dbot-domain-recon** is open-source, modular, and stateless. It can be hosted on [Cloudflare Workers](https://developers.cloudflare.com/workers/) or any stateless environment. The bot interacts via [Discord slash commands](https://discord.com/developers/docs/interactions/application-commands) and provides instant domain information for any TLD. The structure allows developers to add or customize commands easily.
 
 ## Features
 
@@ -27,7 +27,7 @@ Welcome to **dbot-domain-recon**, a Discord bot designed for domain investors an
 │
 ├─ example.dev.vars      # Example environment variables
 ├─ package.json
-├─ tsconfig.json         # TypeScript configuration (if used)
+├─ tsconfig.json
 └─ README.md
 ```
 
