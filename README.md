@@ -1,6 +1,6 @@
 # dbot-domain-recon
 
-Welcome to **dbot-domain-recon**, a Discord bot designed for domain investors and enthusiasts. This bot provides fast, reliable domain information including ownership, registrar, RDAP details, and WHOIS fallback. Many domainers face fragmented tools for domain data; this bot centralizes it into a single, stateless solution.
+Welcome to **dbot-domain-recon**, a Discord bot designed for domain investors and enthusiasts. This bot provides fast, reliable domain information including ownership, registrar, RDAP details. Many domainers face fragmented tools for domain data; this bot centralizes it into a single, stateless solution.
 
 ## Overview
 
