@@ -9,7 +9,6 @@ Welcome to **dbot-domain-recon**, a Discord bot designed for domain investors an
 ## Features
 
 * Fetch RDAP information for domains
-* WHOIS fallback for unsupported domains
 * Instant interaction through Discord commands
 * Stateless design with optional Cloudflare hosting
 * Open-source and fully modular
